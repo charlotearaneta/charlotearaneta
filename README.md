@@ -1,6 +1,6 @@
 # Hi there, I'm Charlote 👋  
 
-💡 **HR Professional transition to tech 
+💡 HR Professional transition to tech 
 I help businesses improve processes, streamline workflows, and adopt tech solutions that make work smarter.  
 
 ---
