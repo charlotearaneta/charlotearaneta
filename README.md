@@ -1,4 +1,3 @@
-# cece-belle
 # Hi there, I'm Charlote 👋  
 
 💡 **HR Professional transition to tech 
