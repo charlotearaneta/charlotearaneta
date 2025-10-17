@@ -36,8 +36,7 @@ I help businesses improve processes, streamline workflows, and adopt tech soluti
 ---
 
 ## 📫 Connect With Me
-- 🌐 Website: (https://lifeguide.ph)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/charlote-araneta/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/charlotearaneta/]
  
 
 ---
