@@ -1,50 +1,101 @@
-# Hi there, I'm Charlote 👋  
+# 👋 Hi, I'm Charlote Araneta  
 
-💡 HR → Tech | Automation & AI | Tech Girlie Era 
----
-I help businesses improve processes, streamline workflows, and adopt tech solutions that make work smarter.  
-
----
-
-## 🔹 About Me
-- 🎓 Background in **HR & Recruitment** with 5+ years of experience.  
-- 💻 Transitioning into the **tech industry** with training in IT Support, Networking, and Cloud.  
-- ⚡ Skilled in **workflow automation**, helping teams boost productivity.  
-- 🌏 Currently based in the Philippines 
+### 🚀 HR → Tech | Automation, AI, & Digital Transformation  
+I’m an automation specialist with a background in Human Resources, now transitioning into tech, cloud, and AI. I build tools that simplify work, improve processes, and make technology more accessible for individuals and businesses.
 
 ---
 
-## 🔹 What I Do
-- **IT Support & Networking** 🖥️  
-  Scripts, troubleshooting guides, and automation for day-to-day tech problems.    
-
-- **HR-Tech Solutions** 👥  
-  Combining HR knowledge with tech tools to improve hiring and employee management.  
-
----
-
-## 🔹 Featured Projects
-📌 Here are some of my highlighted works:  
-- **SolaceMind** – AI emotional support [solacemind.github.io]
-
-- **Ayra Talk** – assistive communication / AAC [ayratalk.com]
-
-- **Portfolio** – [charlotearaneta.github.io]
-
-- [IT-Support-Notes](#) → My notes from Google IT Support course (binary, networking, troubleshooting).  
+## 🌟 About Me  
+- 🎓 5+ years experience in **HR, Recruitment, and Operations**.  
+- 💻 Transitioning into the **Tech & Automation** field through continuous upskilling: IT Support, Networking, Cloud, Automation, and AI.  
+- ⚙️ Passionate about using **technology to solve real-world problems**—from HR workflows to assistive communication and mental health support.  
+- 🌏 Based in the Philippines; preparing for postgraduate studies in **Western Australia** focusing on Digital Transformation & Information Systems.  
+- ✨ Mission: *Build human-centered tech that empowers communities and improves everyday life.*
 
 ---
 
-## 🔹 Skills & Tools
-- **Languages & Scripts:** PowerShell, Bash. 
-- **Tools:** ClickUp, GitHub, Google Workspace, Excel.  
-- **Tech Interests:** Cloud (AWS/Azure), Networking, Automation.  
+## 🛠️ What I Do  
+### **Automation & Workflow Engineering**
+- Build no-code/low-code automations (Zapier, Make, n8n)  
+- Integrate APIs, webhooks, and automation logic  
+- Design efficient HR & operations workflows  
+- Deploy systems that reduce manual workload and boost productivity  
+
+### **IT Support & Technical Foundations**  
+- Troubleshooting, networking basics, OS support  
+- Process optimization through automation logic  
+- Scripting and documentation for internal IT workflows  
+
+### **HR-Tech Innovation**  
+- Build tools for recruitment and employee management  
+- Automate HR processes using AI + workflow platforms  
+- Apply systems thinking to create scalable HR solutions  
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [https://www.linkedin.com/in/charlotearaneta/]
- 
+## 🚀 Featured Projects  
+### **🧠 SolaceMind** — AI Emotional Support Platform  
+Compassion-driven AI designed to support mental wellness.  
+🔗 https://solacemind.github.io  
+
+### **🗣️ Ayra Talk (APT)** — Assistive Communication / AAC  
+A communication tool designed to help non-verbal individuals express themselves using intuitive, AI-enhanced interfaces.  
+🔗 https://ayratalk.com  
+
+### **💼 Portfolio Website**  
+A collection of my projects, case studies, and tech journey.  
+🔗 https://charlotearaneta.github.io  
+
+### **💡 IT Support Notes & Labs**  
+My scripts, notes, and troubleshooting documentation from the Google IT Support certification.  
+🔗 (To be updated in future commits)
 
 ---
-✨ *Always learning, always building.*  
+
+## 🧰 Skills & Tools  
+
+### **Programming Languages**  
+HTML • CSS • JavaScript (Beginner) • Python (Beginner)  
+
+### **Automation & Workflow Tools**  
+No-Code Development (Zapier, Make, n8n) • APIs • JSON • Automation Logic • Webhooks  
+
+### **AI & Productivity Tools**  
+Prompt Engineering • ChatGPT • Claude • Perplexity  
+Google Workspace AI • Microsoft 365 • Notion • ClickUp  
+
+### **Tech & Cloud**  
+Git & GitHub • Linux • Windows OS • Basic Networking  
+AWS Fundamentals • Cloud Support Essentials  
+
+### **Professional Tools**  
+Google Workspace • Excel • Notion • ClickUp (Admin + Expert)  
+
+### **Languages**  
+English • Filipino  
+
+---
+
+## 🎓 Certifications  
+- **Google IT Support Certification**  
+- **AWS Cloud Support Associate**  
+- **ClickUp Admin Certification**  
+- **ClickUp Expert Certification**  
+- **McKinsey Forward Program Graduate**  
+
+---
+
+## 🌱 Currently Learning  
+- Cloud Technologies (AWS & Azure)  
+- Python automation scripts  
+- AI integrations for HR-Tech  
+- Systems analysis & digital transformation frameworks  
+
+---
+
+## 📫 Connect With Me  
+🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta/  
+
+---
+
+✨ *Always learning. Always building. Driven by impact.*  
