@@ -9,7 +9,7 @@ I’m an automation specialist with a background in Human Resources, now transit
 - 🎓 5+ years experience in **HR, Recruitment, and Operations**.  
 - 💻 Transitioning into the **Tech & Automation** field through continuous upskilling: IT Support, Networking, Cloud, Automation, and AI.  
 - ⚙️ Passionate about using **technology to solve real-world problems**—from HR workflows to assistive communication and mental health support.  
-- 🌏 Based in the Philippines; preparing for postgraduate studies in **Western Australia** focusing on Digital Transformation & Information Systems.  
+- 🌏 Based in the Philippines; preparing for postgraduate studies focusing on Digital Transformation & Information Systems.  
 - ✨ Mission: *Build human-centered tech that empowers communities and improves everyday life.*
 
 ---
@@ -45,10 +45,6 @@ A communication tool designed to help non-verbal individuals express themselves 
 ### **💼 Portfolio Website**  
 A collection of my projects, case studies, and tech journey.  
 🔗 https://charlotearaneta.github.io  
-
-### **💡 IT Support Notes & Labs**  
-My scripts, notes, and troubleshooting documentation from the Google IT Support certification.  
-🔗 (To be updated in future commits)
 
 ---
 
