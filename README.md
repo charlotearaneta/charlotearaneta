@@ -1,6 +1,6 @@
 # Hi there, I'm Charlote 👋  
 
-💡 HR Professional transition to tech 
+💡 HR → Tech | Automation & AI | Tech Girlie Era 
 I help businesses improve processes, streamline workflows, and adopt tech solutions that make work smarter.  
 
 ---
@@ -23,6 +23,10 @@ I help businesses improve processes, streamline workflows, and adopt tech soluti
 ---
 
 ## 🔹 Featured Projects
+**SolaceMind** – AI emotional support (solacemind.github.io)
+**Ayra Talk** – assistive communication / AAC (ayratalk.com)
+**Portfolio** – charlotearaneta.github.io
+
 📌 Here are some of my highlighted works:  
 - [IT-Support-Notes](#) → My notes from Google IT Support course (binary, networking, troubleshooting).  
 
