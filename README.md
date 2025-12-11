@@ -8,7 +8,7 @@ I’m an automation specialist with a background in Human Resources, now transit
 ## 🌟 About Me  
 - 🎓 5+ years experience in **HR, Recruitment, and Operations**.  
 - 💻 Transitioning into the **Tech & Automation** field through continuous upskilling: IT Support, Networking, Cloud, Automation, and AI.  
-- ⚙️ Passionate about using **technology to solve real-world problems**—from HR workflows to assistive communication and mental health support.  
+- ⚙️ Passionate about using **technology to solve real-world problems** from HR workflows to assistive communication and mental health support.  
 - 🌏 Based in the Philippines; preparing for postgraduate studies focusing on Digital Transformation & Information Systems.  
 - ✨ Mission: *Build human-centered tech that empowers communities and improves everyday life.*
 
