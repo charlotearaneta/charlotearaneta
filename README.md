@@ -90,7 +90,9 @@ English • Filipino
 ---
 
 ## 📫 Connect With Me  
-🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta/  
+🔗 **Portfolio**: https://charlotearaneta.github.io
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/charlotearaneta/  
 
 ---
 
